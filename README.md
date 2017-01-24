@@ -1,2 +1,2 @@
-# React-JS-login-App
-This is a simple react js login Application.
+# React-JS-Form-Validation-App
+This is a simple react js Form validation Application.
